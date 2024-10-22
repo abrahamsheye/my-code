@@ -18,7 +18,7 @@ def main():
     elif students_grades >=70:
      print("Congralations! You got C3 " + students_names) 
     else: 
-     print("oh, " + students_names + " fair result!")
+     print("oh, " + students_names + " fair result put more effort!")
 
              
 main()        
